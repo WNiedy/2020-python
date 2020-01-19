@@ -17,8 +17,9 @@ print(a)
 * p08.py
 * p09.py
 * p10.py
+* p11.py
 * p12.py
-* p12.py
+* p13.py
 ### micro:bit 設計
 - m01.py
 - m02.py
